@@ -1,3 +1,5 @@
 {
-  "prefix": "!"
+  "prefix": "!",
+  "Token": "my dbot token",
+  "Mongo": "my mongo url"
 }
